@@ -5,3 +5,7 @@
 >    > 1. DB_USER= database username
 >    > 2. DB_PASS= database password
 >    > 3. DB_NAME= database name
+
+## to change directory
+
+> 1. git remote add origin https://github.com/kmamun716/backend-basic-structure.git (just replace with new git link)
